@@ -9,4 +9,4 @@
 5. Todos los `<li>` de la lista desordenadas deben tener un margen inferior de 0.5rem
 6. Todos los tags `<header> ` de las secciones deben tener un tamaño de texto de 1.5rem. BONUS: ¿cuántos píxeles son en total?
 
-7. BONUS. Queremos que todos los `<p>` esten indentados exactamente el valor que tiene definido por defecto el tamaño de la letra. Es decir, si el usuario tiene definido 18px, todos los `<p>` deben estar indentado a 18px. Si tienen definido 20px, una identación de 20px. etc.
+7. BONUS. Queremos que todos los `<p>` esten indentados exactamente el valor del tamaño de la letra del navagador Web. Es decir, si el usuario tiene definido 18px, todos los `<p>` deben estar indentado a 18px. Si tienen definido 20px, una identación de 20px. etc.
