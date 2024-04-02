@@ -1,6 +1,5 @@
 body {
     font-family: Verdana;
-    line-height: 1.5;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -12,12 +11,10 @@ a {
 
 code {
     font-family: inherit;
-    background-color: lightblue;
 }
 
 pre {
     background-color: #f5f5f5;
-    padding: 10px;
     border: 1px solid #ccc;
     font-family: monospace;
     font-size: 16px;
@@ -29,7 +26,6 @@ a:hover {
 
 p {
     text-align: justify;
-    text-indent: 1rem;
 }
 
 h2 {
@@ -59,11 +55,9 @@ nav ul {
 
 nav ul li {
     border: 1px solid black;
-    padding: 6px 12px;
 }
 
 .main-section header {
-    font-size: 20px;
     font-weight: bold;
 }
 
@@ -72,7 +66,6 @@ nav ul li {
 }
 
 .section-header {
-    font-size: 1.5rem;
     font-weight: bold;
 }
 
